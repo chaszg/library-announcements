@@ -1,7 +1,3 @@
-#librarianship 
-
-[[Fall Department Emails]]
-
 Good afternoon and Happy Halloween!
 
 I hope everyone had a great first half of the fall semester. With several weeks still remaining in the semester, there are still many opportunities to engage with resources, workshops, and events through the CMU Libraries! Please see the brief list below:
