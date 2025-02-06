@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## CMU Libraries Announcements
 
+See all announcements sent from STEM Librarian Chasz Griego, in support of the following departments and groups:
 
-#### Here are some example pages:
-
-- [Markdown](02-markdown-examples)
-- [Images](03-images-examples)
-- [Embeds](04-embeds-examples)
+- Chemistry
+- Chemical Engineering
+- Materials Science & Engineering
+- Rales Fellows
