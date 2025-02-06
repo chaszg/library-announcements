@@ -1,4 +1,3 @@
-#librarianship 
 Good morning,
 
 I hope you all have had a nice fresh start to the fall semester. My name is Chasz Griego, and I'm the new Science and Engineering Liaison Librarian, serving the Chemistry department along with Chemical Engineering and Materials Science and Engineering. My background is in Chemical Engineering, having recently finished my PhD from Pitt. I am very excited to help support this community! 
