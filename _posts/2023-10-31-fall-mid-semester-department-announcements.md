@@ -4,13 +4,13 @@ I hope everyone had a great first half of the fall semester. With several weeks 
 
 **Workshops**: Here is a brief list of upcoming workshops. You can view the full list [here](https://cmu.libcal.com/calendar/events/?cid=9148&t=d&d=0000-00-00&cal=9148&inc=0). Want to learn at your own pace? Check out workshop content on our [Open Data Science Workshop Page](https://cmu-lib.github.io/portfolio_workshop/).
 
-- Cleaning Untidy Data with OpenRefine  |  [November 2](https://cmu.libcal.com/event/11068024)
-- Introduction to R for Data Science | [Starting November 7](https://cmu.libcal.com/calendar/workshops?t=d&q=2-part%20introductory&cid=9148&cal=9148&inc=0) 
-- Data Visualization in R | [November 7](https://cmu.libcal.com/event/11173860)
-- Introduction to Plotly Open Source Graphing Library | [November 9](https://cmu.libcal.com/event/11067880)
-- Analyzing Scholarly Literature Using Bibliometrics | [November 9](https://cmu.libcal.com/event/11068112)
-- Data Carpentry: Introduction to R | [November 15-17](https://cmu.libcal.com/event/11098020)
-- Encapsulating Reproducible Computational Research with Code Ocean | [November 29](https://cmu.libcal.com/event/11110715)
+Cleaning Untidy Data with OpenRefine  |  [November 2](https://cmu.libcal.com/event/11068024)
+Introduction to R for Data Science | [Starting November 7](https://cmu.libcal.com/calendar/workshops?t=d&q=2-part%20introductory&cid=9148&cal=9148&inc=0) 
+Data Visualization in R | [November 7](https://cmu.libcal.com/event/11173860)
+Introduction to Plotly Open Source Graphing Library | [November 9](https://cmu.libcal.com/event/11067880)
+Analyzing Scholarly Literature Using Bibliometrics | [November 9](https://cmu.libcal.com/event/11068112)
+Data Carpentry: Introduction to R | [November 15-17](https://cmu.libcal.com/event/11098020)
+Encapsulating Reproducible Computational Research with Code Ocean | [November 29](https://cmu.libcal.com/event/11110715)
 
 **Data & Code Support**: Book a virtual or in-person [appointment](https://www.library.cmu.edu/service/data-code-support) for quick help with your data needs or code in R or Python with a library consultant.
 
