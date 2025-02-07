@@ -1,1 +1,1 @@
-<iframe src="../content/img/January Library Announcements for ChemE Faculty.pdf" width="100%" height="600px"></iframe>
+<iframe src="img/january-ChemE-faculty.pdf" width="100%" height="600px"></iframe>
